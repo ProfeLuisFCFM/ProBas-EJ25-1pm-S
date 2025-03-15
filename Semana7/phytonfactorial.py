@@ -12,3 +12,8 @@ import tiposfunciones as tfun
 
 if __name__ =='__main__':
     print(factorial(5))
+
+
+    demo = "Hola mundo"
+
+    print()
